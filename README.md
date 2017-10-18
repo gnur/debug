@@ -1,0 +1,2 @@
+# debug
+a small container to provide a shell with several debug tools (like dig, curl, jq and vim)
